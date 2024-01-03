@@ -1,1 +1,1 @@
-# Detikcom_FrontendDesignAssignment_Awangga_Surrya_Atmaja
+# Detikcom_FrontendDesignAssignment_Awangga_Surya_Atmaja
